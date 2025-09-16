@@ -3,7 +3,7 @@
 import urllib.request
 
 # GitHub raw script URL
-url = "https://raw.githubusercontent.com/onkings-mfl/MFL-Scripts/refs/heads/main/SecureCRT/script-logins/login.py"
+url = "https://raw.githubusercontent.com/onkings-mfl/MFL-WCDC-Tools/refs/heads/dev/SecureCrt-Tools/crt_login.py"
 
 try:
     # Check for and retrieve the csv_path argument from SecureCRT
