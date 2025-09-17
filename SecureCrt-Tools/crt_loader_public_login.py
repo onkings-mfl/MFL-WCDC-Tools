@@ -1,6 +1,6 @@
 # $language = "Python3"
 # $interface = "1.0"
-import urllib.request
+import urllib.re
 import sys
 import ssl
 
