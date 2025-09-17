@@ -1,6 +1,8 @@
 # $language = "Python3"
 # $interface = "1.0"
 import urllib.request
+import sys
+import ssl
 
 # GitHub raw script URL
 url = "https://raw.githubusercontent.com/onkings-mfl/MFL-WCDC-Tools/refs/heads/dev/SecureCrt-Tools/crt_login.py"
